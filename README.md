@@ -7,9 +7,9 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/rommi-kaestria/) | 🌐 [Personal Website](https://rommikaestria.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rommikaestria)](https://github.com/rommikaestria/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rommikaestria&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rommikaestria&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rommikaestria&show_icons=true&theme=vision-glow)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rommikaestria&color=green)
 
